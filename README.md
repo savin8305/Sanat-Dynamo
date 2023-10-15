@@ -1,7 +1,7 @@
 # Start Next
 
 
-Landing Page Start Next em desenvolvimento utilizando as tecnologias Next JS e React.
+Landing Page Sanat-Dynamo .
 
 <br>
 
