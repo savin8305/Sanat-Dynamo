@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-/** @jsx jsx */
 import { jsx, Container, Box, Grid, Text, Heading, Button, Image } from 'theme-ui';
 import { keyframes } from '@emotion/core';
 import TextFeature from 'components/text-feature';
@@ -82,7 +81,7 @@ export default function ServiceSection() {
       <ModalVideo  
         channel="youtube"
         isOpen={videoOpen}
-        videoId="VaTl8YNXLtE"
+        videoId="a0xrJKp0aQw&t"
         onClose={() => setVideoOpen(false)}
       />
     </section>

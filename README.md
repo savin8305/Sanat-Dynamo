@@ -21,7 +21,7 @@ react-multi-carousel | Multi Carousel | 2.5.5 | https://www.npmjs.com/package/re
 
 ## Preview Demo
 
-https://start-next.vercel.app/
+
 
 
 ##
